@@ -22,4 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
