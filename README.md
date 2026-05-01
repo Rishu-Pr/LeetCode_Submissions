@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0112-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -39,9 +40,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0112-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
