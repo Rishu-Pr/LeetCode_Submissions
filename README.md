@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
+| [1861-rotating-the-box](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1861-rotating-the-box) |
 ## Tree
 |  |
 | ------- |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Array
+|  |
+| ------- |
+| [1861-rotating-the-box](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1861-rotating-the-box) |
+## Matrix
+|  |
+| ------- |
+| [1861-rotating-the-box](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1861-rotating-the-box) |
 <!---LeetCode Topics End-->
