@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0669-trim-a-binary-search-tree) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0617-merge-two-binary-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0669-trim-a-binary-search-tree) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0669-trim-a-binary-search-tree) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
