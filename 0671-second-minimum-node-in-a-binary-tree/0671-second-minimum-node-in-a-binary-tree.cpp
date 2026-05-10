@@ -10,19 +10,23 @@
  * };
  */
 class Solution {
-    void getPreOrder(vector<int> &V,TreeNode *root){
-        V.push_back(root->val);
-        if(root->left) getPreOrder(V,root->left);
-        if(root->right) getPreOrder(V,root->right);
-    }
 public:
+    long ans = LONG_MAX;
+    void getSec(TreeNode* root, int &min){
+        if(!root) return;
+
+        if(root->val > min && root->val < ans)
+            ans = root->val;
+
+        getSec(root->left,min);
+        getSec(root->right,min);
+    }
+
     int findSecondMinimumValue(TreeNode* root) {
-        vector<int> V;
-        getPreOrder(V,root);
-        sort(V.begin(),V.end());
-        for(int i = 1; i < V.size(); i++){
-            if(V[i] != V[0]) return V[i];
-        }
-        return -1;
+        int min = root->val;
+        getSec(root,min);
+
+        if(ans == LONG_MAX) return -1;
+        else return ans;
     }
 };
