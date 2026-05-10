@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
+| [0593-valid-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0593-valid-square) |
 | [1323-maximum-69-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1323-maximum-69-number) |
 ## Two Pointers
 |  |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
