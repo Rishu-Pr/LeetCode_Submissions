@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0796-rotate-string) |
 ## Sliding Window
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
 | [1323-maximum-69-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1323-maximum-69-number) |
 ## Linked List
 |  |
@@ -139,4 +141,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
