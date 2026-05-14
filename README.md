@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0796-rotate-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1544-make-the-string-great](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1544-make-the-string-great) |
 ## Sliding Window
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1544-make-the-string-great](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
