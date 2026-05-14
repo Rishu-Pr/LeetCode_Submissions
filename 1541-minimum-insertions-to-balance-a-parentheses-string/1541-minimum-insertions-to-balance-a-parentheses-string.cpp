@@ -2,26 +2,25 @@ class Solution {
 public:
     int minInsertions(string s) {
         int ans = 0;
-        string s_modified = "";
-        for(int i = 0; i < s.size(); i++){
-            if(i == s.size() - 1 && s[i] == ')') ans++;
-            else if(s[i] == ')' && s[i + 1] == ')') i++;
-            else if(s[i] == ')' && s[i + 1] != ')') ans++;
-            s_modified.push_back(s[i]);
+        int close_req = 0;
+
+        for(char c : s){
+            if(c == '('){
+                close_req += 2;
+                if(close_req % 2){
+                    ans++;
+                    close_req--;
+                }
+            }
+            else{
+                close_req--;
+                if(close_req < 0){
+                    ans++;
+                    close_req = 1;
+                }
+            }
         }
 
-        stack<char> stk;
-        for(char c: s_modified){
-            if(!stk.empty() && stk.top() == '(' && c == ')') stk.pop();
-            else stk.push(c);
-        }
-
-        while(!stk.empty()){
-            if(stk.top() == '(') ans += 2;
-            else ans += 1;
-            
-            stk.pop();
-        }
-        return ans;
+        return ans + close_req;
     }
 };
