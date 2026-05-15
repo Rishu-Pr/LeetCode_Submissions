@@ -20,24 +20,27 @@
  * };
  */
 class Solution {
+    TreeNode* createTree(vector<int>& V,int low,int high){
+        if(low > high) return NULL;
+        int mid = low + (high - low) / 2;
+        TreeNode* r = new TreeNode(V[mid]);
+        if(low < high){
+            r->left = createTree(V, low, mid - 1);
+            r->right = createTree(V, mid + 1, high);
+        }
+        return r;
+    }
 public:
     TreeNode* sortedListToBST(ListNode* head) {
         if(!head) return NULL;
-        ListNode* slow = head;
-        ListNode* fast = head->next;
-        ListNode* prev = NULL;
-        while(fast && fast->next){
-            prev = slow;
-            slow = slow->next;
-            fast = fast->next->next;
+        vector<int> V;
+        ListNode* root = head;
+        while(root){
+            V.push_back(root->val);
+            root = root->next;
         }
 
-        if(prev) prev->next = NULL;
-        TreeNode* root = new TreeNode(slow->val);
-
-        root->left = sortedListToBST((prev) ? head : NULL);
-        root->right = sortedListToBST(slow->next);
-
-        return root;
+        TreeNode* r = createTree(V, 0, V.size() - 1);
+        return r;
     }
 };
