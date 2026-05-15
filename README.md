@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0149-max-points-on-a-line) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1037-valid-boomerang](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1037-valid-boomerang) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1441-build-an-array-with-stack-operations) |
