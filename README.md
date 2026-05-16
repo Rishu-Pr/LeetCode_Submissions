@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1544-make-the-string-great) |
+| [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1472-design-browser-history](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1472-design-browser-history) |
+| [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
 ## Array
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1441-build-an-array-with-stack-operations) |
+| [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Stack
 |  |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1544-make-the-string-great) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -188,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1472-design-browser-history) |
+| [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
 ## Data Stream
 |  |
 | ------- |
