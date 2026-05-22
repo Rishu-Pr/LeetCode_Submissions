@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1824-minimum-sideway-jumps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1824-minimum-sideway-jumps) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Linked List
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Matrix
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Number Theory
 |  |
 | ------- |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 <!---LeetCode Topics End-->
