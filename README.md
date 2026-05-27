@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
 | [1323-maximum-69-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1323-maximum-69-number) |
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0055-jump-game) |
 | [0149-max-points-on-a-line](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0213-house-robber-ii) |
