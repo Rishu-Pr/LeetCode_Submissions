@@ -1,30 +1,22 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        unordered_map<char, int> map;
-        for(int i = 0; i < word.size(); i++)
-            if(word[i] >= 'A' && word[i] <= 'Z')
-                if(map.find(word[i]) == map.end()) map[word[i]] = i;
-
-        if(map.empty()) return 0;
-
-        vector<int> ans(26, 0);
+        vector<int> vec(26, -1);
         for(int i = 0; i < word.size(); i++){
-            if(word[i] >= 'a' && word[i] <= 'z'){
-                int charIndex = word[i] - 'a';
-                char upperChar = toupper(word[i]);
-                
-                if(ans[charIndex] == -1) continue;
-                
-                if(map.count(upperChar) && i > map[upperChar]) ans[charIndex] = -1;
-                else ans[charIndex]++;
-                
+            if(word[i] >= 'A' && word[i] <='Z')
+                if(vec[word[i] - 'A'] == -1) vec[word[i] - 'A'] = i;
+        }
+
+        vector<int> ans(26, -1);
+        for(int i = 0; i < word.size(); i++){
+            if (word[i] >= 'a' && word[i] <= 'z') {
+                ans[word[i] - 'a'] = i;
             }
         }
 
         int sum = 0;
         for(int i = 0; i < 26; i++)
-            if(ans[i] > 0 && map[i + 'A']) sum++;
+            if(ans[i] != -1 && vec[i] != -1 && ans[i] < vec[i]) sum++;
         
         return sum;
     }
