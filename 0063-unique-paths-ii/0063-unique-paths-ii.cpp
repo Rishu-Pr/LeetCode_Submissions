@@ -1,24 +1,28 @@
 class Solution {
-    int solve(vector<vector<int>>& obstacleGrid, int m, int n, int x, int y, vector<vector<int>>& dp){
-        if(x >= m || y >= n) return 0;
-        if(obstacleGrid[x][y] == 1) return 0;
-        if(x == m - 1 && y == n - 1) return 1;
-        if(dp[x][y] != -1) return dp[x][y];
-
-        int right = 0;
-        int down = 0;
-
-        if(x < m - 1) right = solve(obstacleGrid, m, n, x + 1, y, dp);
-        if(y < n - 1) down = solve(obstacleGrid, m, n, x, y + 1, dp);
-
-        return dp[x][y] = right + down;
-    }
 public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int m = obstacleGrid.size();
         int n = obstacleGrid[0].size();
-        vector<vector<int>> dp(m + 1, vector<int>(n + 1, -1));
-        int ans = solve(obstacleGrid, m, n, 0, 0, dp);
-        return ans;
+        vector<vector<long long>> dp(m + 1, vector<long long>(n + 1, 0));
+
+        for(int i = m - 1; i >= 0; i--){
+            if(obstacleGrid[i][n - 1] == 1) break;
+            dp[i][n - 1] = 1;
+        }
+        for(int i = n - 1; i >= 0; i--){
+            if(obstacleGrid[m - 1][i] == 1) break;
+            dp[m - 1][i] = 1;
+        }
+
+        for(int x = m - 2; x >= 0; x--){
+            for(int y = n - 2; y >= 0; y--){
+                long long bottom = (obstacleGrid[x + 1][y] == 1) ? 0 : dp[x + 1][y]; 
+                long long right = (obstacleGrid[x][y + 1] == 1) ? 0 : dp[x][y + 1];
+
+                dp[x][y] = (obstacleGrid[x][y] == 1) ? 0 : right + bottom; 
+            }
+        }
+
+        return (int)dp[0][0];
     }
 };
