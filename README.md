@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0149-max-points-on-a-line) |
+| [0233-number-of-digit-one](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0279-perfect-squares) |
 | [0593-valid-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0593-valid-square) |
 | [0788-rotated-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0788-rotated-digits) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0337-house-robber-iii) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
