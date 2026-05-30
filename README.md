@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0062-unique-paths) |
@@ -315,5 +318,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0233-number-of-digit-one](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
