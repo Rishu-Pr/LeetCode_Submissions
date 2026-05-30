@@ -5,11 +5,11 @@ class Solution {
         if(dp[start][end] != -1) return dp[start][end];
 
         int matches = 0;
-        if(s[start] == s[end]) matches = 2 + solve(s, start + 1, end - 1, dp);
+        if(s[start] == s[end]) return dp[start][end]  = 2 + solve(s, start + 1, end - 1, dp);
         int skip_start = solve(s, start + 1, end, dp);
         int skip_end = solve(s, start, end - 1, dp);
 
-        return dp[start][end] = max(matches, max(skip_start, skip_end));
+        return dp[start][end] = max(skip_start, skip_end);
     }
 public:
     int longestPalindromeSubseq(string s) {
