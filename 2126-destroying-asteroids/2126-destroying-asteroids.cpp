@@ -8,7 +8,7 @@ public:
         if(asteroids.size() > 1 && asteroids[0] < asteroids[1]) return false;
 
         for(int i = 1; i < asteroids.size() - 1; i++){
-            if(asteroids[i] > 100000 || asteroids[i - 1] > 100000) return true;
+            if(asteroids[i - 1] > 100000 || asteroids[i - 1] > asteroids.back()) return true;
             asteroids[i] += asteroids[i - 1];
             if(asteroids[i] < asteroids[i + 1]) return false;
         }
