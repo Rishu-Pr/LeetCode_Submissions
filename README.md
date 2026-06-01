@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0091-decode-ways) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0233-number-of-digit-one](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0233-number-of-digit-one) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
