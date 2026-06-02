@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0198-house-robber) |
