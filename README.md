@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1824-minimum-sideway-jumps) |
 | [1871-jump-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1871-jump-game-vii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
 |  |
 | ------- |
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0139-word-break) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
