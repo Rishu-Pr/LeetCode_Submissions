@@ -13,7 +13,7 @@ public:
             int Val_3 = V[ptr_3] * 3;
             int Val_5 = V[ptr_5] * 5;
 
-            int minV = min({Val_2, Val_3, Val_5});
+            int minV = min(Val_2, min(Val_3, Val_5));
             V[idx] = minV; idx++;
 
             if(minV == Val_2) ptr_2++;
