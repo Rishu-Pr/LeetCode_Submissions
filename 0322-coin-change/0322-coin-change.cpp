@@ -1,19 +1,22 @@
 class Solution {
-    int solve(vector<int>& coins, int amount, int idx, vector<vector<int>>& dp){
-        if(amount == 0) return 0;
-        if(amount < 0 || idx == coins.size()) return 1e7;
-        if(dp[idx][amount] != -1) return dp[idx][amount];
-
-        int select = 1 + solve(coins, amount - coins[idx], idx,dp);
-        int skip = 0 + solve(coins, amount, idx + 1, dp);
-
-        return dp[idx][amount] = min(select, skip);
-    }
 public:
     int coinChange(vector<int>& coins, int amount) {
-        vector<vector<int>> dp(coins.size(), vector<int>(amount + 1, -1));
-        int ans = solve(coins, amount, 0, dp);
+        vector<vector<int>> dp(amount + 1, vector<int>(coins.size() + 1, 1e9));
+        
+        for(int j = 0; j <= coins.size(); j++){
+            dp[0][j] = 0;
+        }
+        for(int i = 1; i <= amount; i++){
+            for(int j = coins.size() - 1; j >= 0; j--){
+                int select = 1e9;
+                if(i - coins[j] >= 0) 
+                    {select = 1 + dp[i - coins[j]][j];
+                }
+                int skip = 0 + dp[i][j + 1];
+                dp[i][j] = min(skip, select);
+            }
+        }
 
-        return (ans >= 1e7) ? -1 : ans;
+        return (dp[amount][0] >= 1e9) ? -1 : dp[amount][0];
     }
 };
