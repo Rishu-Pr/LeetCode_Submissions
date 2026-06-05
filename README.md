@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0377-combination-sum-iv) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0338-counting-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
