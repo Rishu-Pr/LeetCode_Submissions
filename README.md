@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0279-perfect-squares](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0403-frog-jump) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0377-combination-sum-iv) |
