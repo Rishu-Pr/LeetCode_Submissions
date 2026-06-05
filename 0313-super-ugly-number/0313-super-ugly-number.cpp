@@ -1,19 +1,27 @@
 class Solution {
 public:
     int nthSuperUglyNumber(int n, vector<int>& primes) {
-        vector<long long> V = {1};
-        vector<long long> ptr(primes.size(), 0);
+        vector<long long> V(n);
+        V[0] = 1;
+        vector<int> ptr(primes.size(), 0);
 
-        while(V.size() < n){
-            long long minV = INT_MAX;
-            for(int i = 0; i < ptr.size(); i++)
-                minV = min(minV, V[ptr[i]] * primes[i]);
+        int size = primes.size();
+        vector<long long> next_multiple(size);
+        for(int i = 0; i < size; i++) next_multiple[i] = primes[i];
 
-            V.push_back(minV);
-            for(int i = 0; i < ptr.size(); i++)
-                if(minV == V[ptr[i]] * primes[i]) ptr[i]++;
+        for (int idx = 1; idx < n; ++idx){
+            long long minV = next_multiple[0];
+            for(int i = 1; i < size; i++)
+                minV = min(minV, next_multiple[i]);
+
+            V[idx] = minV;
+            for(int i = 0; i < size; i++)
+                if(minV == next_multiple[i]){ 
+                    ptr[i]++;
+                    next_multiple[i] = V[ptr[i]] * primes[i];
+                }
         }
 
-        return V.back();
+        return V[n - 1];
     }
 };
