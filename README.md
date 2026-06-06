@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1472-design-browser-history) |
 | [1537-get-the-maximum-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1537-get-the-maximum-score) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1824-minimum-sideway-jumps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1824-minimum-sideway-jumps) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
 | [1537-get-the-maximum-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1537-get-the-maximum-score) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1824-minimum-sideway-jumps) |
 | [1871-jump-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1871-jump-game-vii) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-make-array-strictly-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1187-make-array-strictly-increasing) |
 | [1340-jump-game-v](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1340-jump-game-v) |
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2126-destroying-asteroids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
