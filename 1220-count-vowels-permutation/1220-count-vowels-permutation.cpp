@@ -4,7 +4,7 @@ class Solution {
         if(n == 1) return 1;
         if(dp[n][prev] != -1) return dp[n][prev];
 
-        int Val = 0;
+        long long Val = 0;
         
         if(prev == 0) Val = solve(n - 1, 1, dp) % MOD;
         if(prev == 1) Val = (solve(n - 1, 0, dp) + solve(n - 1, 2, dp)) % MOD;
