@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1037-valid-boomerang) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1187-make-array-strictly-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1187-make-array-strictly-increasing) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1340-jump-game-v](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1340-jump-game-v) |
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0221-maximal-square) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1861-rotating-the-box](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1861-rotating-the-box) |
 ## String Matching
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-make-array-strictly-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1187-make-array-strictly-increasing) |
 | [1220-count-vowels-permutation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1220-count-vowels-permutation) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1340-jump-game-v](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1340-jump-game-v) |
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
