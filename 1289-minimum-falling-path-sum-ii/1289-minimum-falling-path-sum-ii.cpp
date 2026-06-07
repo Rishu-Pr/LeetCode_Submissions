@@ -1,18 +1,23 @@
 class Solution {
-    int solve(vector<vector<int>>& grid, int y, int prev_idx, vector<vector<int>>& dp){
-        if(y == grid.size()) return 0;
-        if(dp[y][prev_idx] != -100) return dp[y][prev_idx];
-
-        int val = 1e7;
-        for(int i = 0; i < grid[0].size(); i++){
-            if(i != prev_idx) val = min(val, grid[y][i] + solve(grid, y + 1, i, dp));
-        }
-
-        return dp[y][prev_idx] = val;
-    }
 public:
     int minFallingPathSum(vector<vector<int>>& grid) {
-        vector<vector<int>> dp(grid.size() + 1, vector<int>(grid.size() + 1, -100));
-        return solve(grid, 0, grid[0].size(), dp);
+        int m = grid.size();
+        int n = grid[0].size();
+        vector<vector<int>> dp = grid;
+
+        for(int i = 1; i < m; i++){
+            for(int j = 0; j < n; j++){
+                int minVal = 1e7;
+
+                for(int k = 0; k < n; k++){
+                    if(j != k) minVal = min(minVal, dp[i - 1][k]);
+                }
+                dp[i][j] += minVal;
+            }
+        }
+        int minV = 1e7;
+        for(int i = 0; i < n; i++) minV = min(minV, dp[m - 1][i]);
+
+        return minV;
     }
 };
