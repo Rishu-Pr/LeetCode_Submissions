@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1187-make-array-strictly-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1187-make-array-strictly-increasing) |
 | [1220-count-vowels-permutation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1220-count-vowels-permutation) |
+| [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1340-jump-game-v](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1340-jump-game-v) |
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
