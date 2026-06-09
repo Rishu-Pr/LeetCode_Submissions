@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1037-valid-boomerang) |
 | [1323-maximum-69-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1323-maximum-69-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-count-all-possible-routes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1575-count-all-possible-routes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [1824-minimum-sideway-jumps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1824-minimum-sideway-jumps) |
 | [1861-rotating-the-box](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1861-rotating-the-box) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-count-all-possible-routes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1575-count-all-possible-routes) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [1824-minimum-sideway-jumps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1824-minimum-sideway-jumps) |
 | [1871-jump-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1871-jump-game-vii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Simulation
 |  |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0397-integer-replacement) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
@@ -426,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
+| [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 ## Trie
 |  |
 | ------- |
@@ -441,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Bitmask
+|  |
+| ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 <!---LeetCode Topics End-->
