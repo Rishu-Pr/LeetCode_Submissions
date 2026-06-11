@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [1824-minimum-sideway-jumps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1824-minimum-sideway-jumps) |
 | [1861-rotating-the-box](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1861-rotating-the-box) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [1824-minimum-sideway-jumps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1824-minimum-sideway-jumps) |
