@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2321-maximum-score-of-spliced-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2463-minimum-total-distance-traveled) |
 | [2540-minimum-common-value](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2574-left-and-right-sum-differences) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2172-maximum-and-sum-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2172-maximum-and-sum-of-array) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2321-maximum-score-of-spliced-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2463-minimum-total-distance-traveled) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2463-minimum-total-distance-traveled](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2463-minimum-total-distance-traveled) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
