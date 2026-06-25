@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2939-maximum-xor-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2939-maximum-xor-product) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1824-minimum-sideway-jumps) |
 | [2126-destroying-asteroids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2939-maximum-xor-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2939-maximum-xor-product) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [2172-maximum-and-sum-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2172-maximum-and-sum-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2939-maximum-xor-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2939-maximum-xor-product) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
