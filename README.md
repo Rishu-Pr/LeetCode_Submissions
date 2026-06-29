@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0567-permutation-in-string) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [0354-russian-doll-envelopes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
