@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1871-jump-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1861-rotating-the-box) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2161-partition-array-according-to-given-pivot) |
