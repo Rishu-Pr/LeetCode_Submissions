@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0219-contains-duplicate-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0097-interleaving-string) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [0354-russian-doll-envelopes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [1187-make-array-strictly-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1187-make-array-strictly-increasing) |
