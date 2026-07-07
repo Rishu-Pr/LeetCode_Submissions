@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0077-combinations) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 ## Trie
 |  |
