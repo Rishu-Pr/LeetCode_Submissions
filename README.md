@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0593-valid-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0593-valid-square) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0396-rotate-function) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0079-word-search) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 ## Trie
 |  |
