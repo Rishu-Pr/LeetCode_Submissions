@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0115-distinct-subsequences) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0221-maximal-square) |
@@ -556,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0079-word-search) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 ## Trie
 |  |
