@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0639-decode-ways-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0639-decode-ways-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0494-target-sum) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 ## Trie
 |  |
