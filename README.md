@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0149-max-points-on-a-line) |
 | [0233-number-of-digit-one](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0233-number-of-digit-one) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0187-repeated-dna-sequences) |
 | [0338-counting-bits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0397-integer-replacement) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0491-non-decreasing-subsequences) |
