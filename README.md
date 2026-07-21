@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0319-bulb-switcher) |
+| [0335-self-crossing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0335-self-crossing) |
 | [0343-integer-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0396-rotate-function) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0335-self-crossing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0335-self-crossing) |
 | [0354-russian-doll-envelopes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0376-wiggle-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0377-combination-sum-iv) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0335-self-crossing) |
 | [0593-valid-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0593-valid-square) |
 | [1037-valid-boomerang](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1037-valid-boomerang) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
