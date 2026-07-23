@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0520-detect-capital) |
+| [0539-minimum-time-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0567-permutation-in-string) |
 | [0639-decode-ways-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0639-decode-ways-ii) |
 | [0796-rotate-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0796-rotate-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0492-construct-the-rectangle) |
 | [0528-random-pick-with-weight](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0528-random-pick-with-weight) |
+| [0539-minimum-time-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0539-minimum-time-difference) |
 | [0593-valid-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0593-valid-square) |
 | [0788-rotated-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0494-target-sum) |
 | [0528-random-pick-with-weight](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0528-random-pick-with-weight) |
+| [0539-minimum-time-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0539-minimum-time-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0539-minimum-time-difference) |
 | [1187-make-array-strictly-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1187-make-array-strictly-increasing) |
 | [1340-jump-game-v](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1340-jump-game-v) |
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
