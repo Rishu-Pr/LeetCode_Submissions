@@ -3,8 +3,8 @@ public:
     bool judgeSquareSum(int c) {
         // 46340
 
-        long long s = 0;
-        long long e = 46340;
+        int s = 0;
+        long long e = sqrt(c);
 
         while(s <= e){
             if(s * s + e * e > c){
