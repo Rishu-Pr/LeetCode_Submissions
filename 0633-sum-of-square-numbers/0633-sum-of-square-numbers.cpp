@@ -3,19 +3,14 @@ public:
     bool judgeSquareSum(int c) {
         // 46340
 
-        vector<long long> V(46341, 0);
-        for(int i = 0; i < 46341; i++){
-            V[i] = i * i;
-        }
-
-        int s = 0;
-        int e = V.size() - 1;
+        long long s = 0;
+        long long e = 46340;
 
         while(s <= e){
-            if(V[s] + V[e] > c){
+            if(s * s + e * e > c){
                 e--;
             }
-            else if(V[s] + V[e] < c){
+            else if(s * s + e * e < c){
                 s++;
             }
             else{
