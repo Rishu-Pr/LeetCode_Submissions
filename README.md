@@ -762,4 +762,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1390-four-divisors) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
