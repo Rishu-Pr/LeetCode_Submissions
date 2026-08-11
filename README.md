@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1390-four-divisors) |
+| [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1690-stone-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1690-stone-game-vii) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 | [1537-get-the-maximum-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1575-count-all-possible-routes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1575-count-all-possible-routes) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1690-stone-game-vii) |
 ## Brainteaser
 |  |
@@ -767,4 +770,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0177-nth-highest-salary) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
