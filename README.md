@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0567-permutation-in-string) |
 | [0639-decode-ways-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0639-decode-ways-ii) |
 | [0796-rotate-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0796-rotate-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0553-optimal-division) |
+| [0556-next-greater-element-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0556-next-greater-element-iii) |
 | [0593-valid-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0788-rotated-digits) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
+| [0556-next-greater-element-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0633-sum-of-square-numbers) |
 | [1537-get-the-maximum-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1537-get-the-maximum-score) |
