@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0365-water-and-jug-problem) |
 | [0396-rotate-function](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0396-rotate-function) |
+| [0400-nth-digit](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0400-nth-digit) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0470-implement-rand10-using-rand7) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
+| [0400-nth-digit](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0400-nth-digit) |
 | [0450-delete-node-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0528-random-pick-with-weight](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
