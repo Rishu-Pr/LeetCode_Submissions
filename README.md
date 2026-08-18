@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0335-self-crossing) |
 | [0354-russian-doll-envelopes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0376-wiggle-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0376-wiggle-subsequence) |
@@ -799,4 +801,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
