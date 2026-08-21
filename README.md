@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0275-h-index-ii) |
+| [0289-game-of-life](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0313-super-ugly-number) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1260-shift-2d-grid) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1441-build-an-array-with-stack-operations) |
