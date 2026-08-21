@@ -1,0 +1,59 @@
+#include <vector>
+
+#define MOD 1000000007
+
+class Fancy {
+    struct Operation {
+        char type;
+        int val;
+    };
+    
+    vector<Operation> ops;
+    
+    vector<pair<long long, int>> V; 
+
+public:
+    Fancy() {
+        
+    }
+    
+    void append(int val) {
+        V.push_back({val, ops.size()});
+    }
+    
+    void addAll(int inc) {
+        ops.push_back({'+', inc});
+    }
+    
+    void multAll(int m) {
+        ops.push_back({'*', m});
+    }
+    
+    int getIndex(int idx) {
+        if (idx >= V.size()) {
+            return -1;
+        }
+        
+        long long current_val = V[idx].first;
+        int start_idx = V[idx].second;
+        
+        for (int i = start_idx; i < ops.size(); i++) {
+            if (ops[i].type == '+') {
+                current_val = (current_val + ops[i].val) % MOD;
+            } else if (ops[i].type == '*') {
+                current_val = (current_val * ops[i].val) % MOD;
+            }
+        }
+        
+        return current_val;
+    }
+};
+
+/**
+ * Your Fancy object will be instantiated and called as such:
+ * Fancy* obj = new Fancy();
+ * obj->append(val);
+ * obj->addAll(inc);
+ * obj->multAll(m);
+ * int param_4 = obj->getIndex(idx);
+ */
