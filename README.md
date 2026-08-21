@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0264-ugly-number-ii) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0398-random-pick-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0365-water-and-jug-problem) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0398-random-pick-index) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0376-wiggle-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0377-combination-sum-iv) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0403-frog-jump) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0384-shuffle-an-array) |
 | [1472-design-browser-history](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1472-design-browser-history) |
 | [1622-fancy-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1622-fancy-sequence) |
@@ -814,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0470-implement-rand10-using-rand7) |
