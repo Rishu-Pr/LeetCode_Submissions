@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1622-fancy-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1622-fancy-sequence) |
 | [1690-stone-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1690-stone-game-vii) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1622-fancy-sequence) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1472-design-browser-history) |
+| [1622-fancy-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1622-fancy-sequence) |
 | [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
 ## Data Stream
 |  |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1622-fancy-sequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -812,4 +816,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0398-random-pick-index) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
