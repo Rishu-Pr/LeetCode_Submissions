@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0275-h-index-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0400-nth-digit](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0400-nth-digit) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0221-maximal-square) |
+| [0275-h-index-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0313-super-ugly-number) |
