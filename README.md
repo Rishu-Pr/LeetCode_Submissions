@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0221-maximal-square) |
+| [0274-h-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -822,4 +824,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1622-fancy-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
