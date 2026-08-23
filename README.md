@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1871-jump-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1622-fancy-sequence) |
 | [1690-stone-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1690-stone-game-vii) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
+| [1927-sum-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1537-get-the-maximum-score) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1824-minimum-sideway-jumps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1824-minimum-sideway-jumps) |
+| [1927-sum-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1690-stone-game-vii) |
+| [1927-sum-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
 ## Brainteaser
 |  |
