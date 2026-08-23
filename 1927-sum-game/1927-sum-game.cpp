@@ -12,7 +12,7 @@ public:
                 left_blank++;
             }
             else{
-                leftsum += num[i] - '0';
+                leftsum += (num[i] - '0');
             }
         }
         for(int i = idx1; i < num.size(); i++){
@@ -20,7 +20,7 @@ public:
                 right_blank++;
             }
             else{
-                rightsum += num[i] - '0';
+                rightsum += (num[i] - '0');
             }
         }
 
@@ -31,13 +31,12 @@ public:
             return true;
         }
         else{
-            int netblank = abs(left_blank - right_blank);
-            int netsum = abs(leftsum - rightsum);
-            if(((left_blank - right_blank)*(leftsum - rightsum) < 0) && (netblank / 2) * 9 == netsum){
+            int netblank = left_blank - right_blank;
+            int netsum = leftsum - rightsum;
+            if((netblank*netsum < 0) && (abs(netblank) / 2) * 9 == abs(netsum)){
                 return false;
             }
             return true;
         }
-
     }
 };
