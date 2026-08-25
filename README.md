@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3412-find-mirror-score-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3320-count-the-number-of-winning-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3320-count-the-number-of-winning-sequences) |
+| [3412-find-mirror-score-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3412-find-mirror-score-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
+| [3412-find-mirror-score-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3412-find-mirror-score-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
