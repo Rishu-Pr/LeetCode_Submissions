@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0528-random-pick-with-weight) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0498-diagonal-traverse) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0553-optimal-division](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0553-optimal-division) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0233-number-of-digit-one](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Backtracking
 |  |
@@ -836,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
@@ -882,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -896,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0810-chalkboard-xor-game) |
 | [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
