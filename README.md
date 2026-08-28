@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0791-custom-sort-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0791-custom-sort-string) |
 | [0970-powerful-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0970-powerful-integers) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [1323-maximum-69-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1323-maximum-69-number) |
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0553-optimal-division) |
+| [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0791-custom-sort-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0791-custom-sort-string) |
 | [1187-make-array-strictly-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1187-make-array-strictly-increasing) |
 | [1340-jump-game-v](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1340-jump-game-v) |
@@ -733,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0264-ugly-number-ii) |
+| [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -812,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
