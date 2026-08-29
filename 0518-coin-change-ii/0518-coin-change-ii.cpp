@@ -24,7 +24,7 @@ class Solution {
     }
 public:
     int change(int amount, vector<int>& coins) {
-        vector<vector<int>> dp(5001, vector<int>(3001, -1));
+        vector<vector<int>> dp(5001, vector<int>(301, -1));
         return solve(coins, amount, 0, dp);
     }
 };
