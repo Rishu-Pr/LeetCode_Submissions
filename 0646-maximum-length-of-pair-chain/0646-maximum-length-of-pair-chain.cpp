@@ -22,10 +22,13 @@ public:
         sort(pairs.begin(), pairs.end());
         int n = pairs.size();
         int l = pairs[0][0];
-        // int r = pairs[n - 1][1];
-        shift = abs(l);
+        int r = pairs[0][1];
+        for(int i = 1; i < pairs.size(); i++){
+            r = max(r, pairs[i][1]);
+        }
+        shift = -l;
 
-        vector<vector<int>> dp(n + 2, vector<int>(2001, -1));
+        vector<vector<int>> dp(n + 2, vector<int>(r - l + 2, -1));
         int ans = 0;
         for(int i = 0; i < pairs.size(); i++){
             ans = max(ans, 1 + solve(pairs, i + 1, pairs[i][1], dp));
