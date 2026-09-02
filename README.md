@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0556-next-greater-element-iii) |
 | [0593-valid-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0633-sum-of-square-numbers) |
+| [0667-beautiful-arrangement-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0667-beautiful-arrangement-ii) |
 | [0788-rotated-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0788-rotated-digits) |
 | [0810-chalkboard-xor-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0553-optimal-division) |
 | [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0667-beautiful-arrangement-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0667-beautiful-arrangement-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
