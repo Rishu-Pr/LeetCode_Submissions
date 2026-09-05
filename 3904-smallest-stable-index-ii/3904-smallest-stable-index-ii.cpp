@@ -6,15 +6,12 @@ public:
         vector<int> minA(n);
 
         int maxV = INT_MIN;
+        int minV = INT_MAX;
         for(int i = 0; i < n; i++) {
             maxV = max(maxV, nums[i]);
+            minV = min(minV, nums[n - 1 - i]);
             maxA[i] = maxV;
-        }
-
-        int minV = INT_MAX;
-        for(int i = n - 1; i >= 0; i--) {
-            minV = min(minV, nums[i]);
-            minA[i] = minV;
+            minA[n - 1 - i] = minV;
         }
 
         for(int i = 0; i < n; i++){
