@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1575-count-all-possible-routes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1575-count-all-possible-routes) |
+| [1626-best-team-with-no-conflicts](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1626-best-team-with-no-conflicts) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1690-stone-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1690-stone-game-vii) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1691-maximum-height-by-stacking-cuboids) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1575-count-all-possible-routes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1575-count-all-possible-routes) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1626-best-team-with-no-conflicts](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1626-best-team-with-no-conflicts) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1690-stone-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1690-stone-game-vii) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1691-maximum-height-by-stacking-cuboids) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1340-jump-game-v) |
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1626-best-team-with-no-conflicts](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1626-best-team-with-no-conflicts) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2126-destroying-asteroids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2126-destroying-asteroids) |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1626-best-team-with-no-conflicts](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1626-best-team-with-no-conflicts) |
 ## Reservoir Sampling
 |  |
 | ------- |
