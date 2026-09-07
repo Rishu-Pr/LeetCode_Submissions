@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
+| [0745-prefix-and-suffix-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0745-prefix-and-suffix-search) |
 | [0791-custom-sort-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0791-custom-sort-string) |
 | [0970-powerful-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0970-powerful-integers) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0639-decode-ways-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0639-decode-ways-ii) |
 | [0640-solve-the-equation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0640-solve-the-equation) |
+| [0745-prefix-and-suffix-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0745-prefix-and-suffix-search) |
 | [0791-custom-sort-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0940-distinct-subsequences-ii) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0667-beautiful-arrangement-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0667-beautiful-arrangement-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0745-prefix-and-suffix-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0745-prefix-and-suffix-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0810-chalkboard-xor-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0810-chalkboard-xor-game) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0384-shuffle-an-array) |
+| [0745-prefix-and-suffix-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0745-prefix-and-suffix-search) |
 | [1472-design-browser-history](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1472-design-browser-history) |
 | [1622-fancy-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1622-fancy-sequence) |
 | [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
@@ -828,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0386-lexicographical-numbers) |
+| [0745-prefix-and-suffix-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0745-prefix-and-suffix-search) |
 ## Memoization
 |  |
 | ------- |
