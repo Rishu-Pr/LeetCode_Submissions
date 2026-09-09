@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0187-repeated-dna-sequences) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0139-word-break) |
@@ -1030,4 +1032,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0640-solve-the-equation) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
