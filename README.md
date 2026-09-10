@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2172-maximum-and-sum-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2172-maximum-and-sum-of-array) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2317-maximum-xor-after-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2317-maximum-xor-after-operations) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2321-maximum-score-of-spliced-array) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2126-destroying-asteroids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2463-minimum-total-distance-traveled](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2463-minimum-total-distance-traveled) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2545-sort-the-students-by-their-kth-score) |
