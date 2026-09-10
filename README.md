@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2365-task-scheduler-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2365-task-scheduler-ii) |
 | [2540-minimum-common-value](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2317-maximum-xor-after-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2317-maximum-xor-after-operations) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2321-maximum-score-of-spliced-array) |
+| [2365-task-scheduler-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2365-task-scheduler-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2463-minimum-total-distance-traveled) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
+| [2365-task-scheduler-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2365-task-scheduler-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
