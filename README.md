@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0810-chalkboard-xor-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0810-chalkboard-xor-game) |
+| [0849-maximize-distance-to-closest-person](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
