@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0788-rotated-digits) |
 | [0810-chalkboard-xor-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0810-chalkboard-xor-game) |
 | [0829-consecutive-numbers-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0829-consecutive-numbers-sum) |
+| [0836-rectangle-overlap](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [0970-powerful-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0970-powerful-integers) |
 | [1017-convert-to-base-2](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1017-convert-to-base-2) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0335-self-crossing) |
 | [0593-valid-square](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0593-valid-square) |
+| [0836-rectangle-overlap](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1037-valid-boomerang) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Sorting
