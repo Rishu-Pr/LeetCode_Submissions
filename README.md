@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3290-maximum-multiplication-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3290-maximum-multiplication-score) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2463-minimum-total-distance-traveled) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2585-number-of-ways-to-earn-points) |
 | [2742-painting-the-walls](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2742-painting-the-walls) |
+| [3290-maximum-multiplication-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3290-maximum-multiplication-score) |
 | [3320-count-the-number-of-winning-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3320-count-the-number-of-winning-sequences) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
