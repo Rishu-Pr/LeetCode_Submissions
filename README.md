@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0970-powerful-integers) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1711-count-good-meals) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1323-maximum-69-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1323-maximum-69-number) |
+| [1386-cinema-seat-allocation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
 | [1537-get-the-maximum-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1537-get-the-maximum-score) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1340-jump-game-v](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1340-jump-game-v) |
+| [1386-cinema-seat-allocation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
 | [1390-four-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1390-four-divisors) |
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
@@ -809,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0491-non-decreasing-subsequences) |
 | [0810-chalkboard-xor-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0810-chalkboard-xor-game) |
+| [1386-cinema-seat-allocation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
