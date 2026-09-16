@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1824-minimum-sideway-jumps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1824-minimum-sideway-jumps) |
+| [1833-maximum-ice-cream-bars](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [1824-minimum-sideway-jumps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1824-minimum-sideway-jumps) |
+| [1833-maximum-ice-cream-bars](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1861-rotating-the-box](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1861-rotating-the-box) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1833-maximum-ice-cream-bars](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -1038,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0274-h-index) |
+| [1833-maximum-ice-cream-bars](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
 ## Knapsack Problem
 |  |
 | ------- |
