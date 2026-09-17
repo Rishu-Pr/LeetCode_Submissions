@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-consecutive-numbers-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
+| [0910-smallest-range-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0910-smallest-range-ii) |
 | [0970-powerful-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0970-powerful-integers) |
 | [1017-convert-to-base-2](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1017-convert-to-base-2) |
 | [1037-valid-boomerang](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1037-valid-boomerang) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0910-smallest-range-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1323-maximum-69-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0810-chalkboard-xor-game) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
+| [0910-smallest-range-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-valid-boomerang](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1037-valid-boomerang) |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0791-custom-sort-string) |
+| [0910-smallest-range-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1187-make-array-strictly-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1187-make-array-strictly-increasing) |
 | [1340-jump-game-v](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1340-jump-game-v) |
