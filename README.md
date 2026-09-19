@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0187-repeated-dna-sequences) |
+| [0224-basic-calculator](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0172-factorial-trailing-zeroes) |
+| [0224-basic-calculator](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0264-ugly-number-ii) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -867,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
+| [0224-basic-calculator](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
