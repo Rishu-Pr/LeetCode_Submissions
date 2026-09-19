@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0335-self-crossing) |
 | [0354-russian-doll-envelopes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0264-ugly-number-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0692-top-k-frequent-words) |
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
