@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2284-sender-with-largest-word-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2284-sender-with-largest-word-count) |
 | [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2396-strictly-palindromic-number) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2939-maximum-xor-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2939-maximum-xor-product) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2429-minimize-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2429-minimize-xor) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2939-maximum-xor-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2939-maximum-xor-product) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3282-reach-end-of-array-with-max-score) |
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0970-powerful-integers) |
 | [1291-sequential-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1291-sequential-digits) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
