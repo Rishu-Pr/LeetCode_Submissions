@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0811-subdomain-visit-count) |
 | [0869-reordered-power-of-2](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0869-reordered-power-of-2) |
 | [0970-powerful-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0970-powerful-integers) |
+| [1079-letter-tile-possibilities](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1079-letter-tile-possibilities) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0796-rotate-string) |
 | [0811-subdomain-visit-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0811-subdomain-visit-count) |
 | [0940-distinct-subsequences-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0940-distinct-subsequences-ii) |
+| [1079-letter-tile-possibilities](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1079-letter-tile-possibilities) |
 | [1143-longest-common-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -925,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0494-target-sum) |
+| [1079-letter-tile-possibilities](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1079-letter-tile-possibilities) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 ## Trie
 |  |
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0811-subdomain-visit-count) |
 | [0869-reordered-power-of-2](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0869-reordered-power-of-2) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1079-letter-tile-possibilities](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1079-letter-tile-possibilities) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
 | [2284-sender-with-largest-word-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2284-sender-with-largest-word-count) |
