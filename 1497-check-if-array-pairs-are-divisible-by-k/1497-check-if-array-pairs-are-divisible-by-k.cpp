@@ -3,10 +3,7 @@ public:
     bool canArrange(vector<int>& arr, int k) {
         vector<int> kArr(k, 0);
         for(int i : arr){
-            while(i < 0){
-                i += k;
-            }
-            kArr[i % k]++;
+            kArr[(k + (i % k)) % k]++;
         }
 
         if(kArr[0] % 2){
