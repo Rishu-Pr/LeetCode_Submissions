@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1711-count-good-meals) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1472-design-browser-history](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1472-design-browser-history) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1537-get-the-maximum-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1537-get-the-maximum-score) |
 | [1539-kth-missing-positive-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1079-letter-tile-possibilities](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1079-letter-tile-possibilities) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
 | [2284-sender-with-largest-word-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2284-sender-with-largest-word-count) |
