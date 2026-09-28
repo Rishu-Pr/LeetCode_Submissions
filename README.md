@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1711-count-good-meals) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2284-sender-with-largest-word-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2284-sender-with-largest-word-count) |
 | [2365-task-scheduler-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2365-task-scheduler-ii) |
 | [2540-minimum-common-value](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2540-minimum-common-value) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2284-sender-with-largest-word-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2284-sender-with-largest-word-count) |
 | [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
@@ -1017,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2284-sender-with-largest-word-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2284-sender-with-largest-word-count) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
