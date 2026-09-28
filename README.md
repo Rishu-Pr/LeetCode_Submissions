@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Complete Knapsack
 |  |
 | ------- |
