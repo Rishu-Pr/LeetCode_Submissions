@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2172-maximum-and-sum-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2172-maximum-and-sum-of-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2284-sender-with-largest-word-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2284-sender-with-largest-word-count) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1861-rotating-the-box](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1861-rotating-the-box) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## String Matching
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2172-maximum-and-sum-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2172-maximum-and-sum-of-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2321-maximum-score-of-spliced-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2463-minimum-total-distance-traveled) |
@@ -1171,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Complete Knapsack
 |  |
 | ------- |
