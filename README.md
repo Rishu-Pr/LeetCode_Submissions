@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1711-count-good-meals) |
+| [1726-tuple-with-same-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1726-tuple-with-same-product) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1690-stone-game-vii) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1711-count-good-meals](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1711-count-good-meals) |
+| [1726-tuple-with-same-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1726-tuple-with-same-product) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1400-construct-k-palindrome-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1726-tuple-with-same-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1726-tuple-with-same-product) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
