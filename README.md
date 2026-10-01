@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1079-letter-tile-possibilities](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1079-letter-tile-possibilities) |
+| [1090-largest-values-from-labels](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1090-largest-values-from-labels) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0767-reorganize-string) |
 | [0910-smallest-range-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1090-largest-values-from-labels](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1090-largest-values-from-labels) |
 | [1323-maximum-69-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1052-grumpy-bookstore-owner](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1052-grumpy-bookstore-owner) |
 | [1073-adding-two-negabinary-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1073-adding-two-negabinary-numbers) |
+| [1090-largest-values-from-labels](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1090-largest-values-from-labels) |
 | [1187-make-array-strictly-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1187-make-array-strictly-increasing) |
 | [1260-shift-2d-grid](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0869-reordered-power-of-2) |
 | [0910-smallest-range-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1090-largest-values-from-labels](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1090-largest-values-from-labels) |
 | [1187-make-array-strictly-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1187-make-array-strictly-increasing) |
 | [1340-jump-game-v](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1340-jump-game-v) |
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
@@ -1034,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1079-letter-tile-possibilities](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1079-letter-tile-possibilities) |
+| [1090-largest-values-from-labels](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1090-largest-values-from-labels) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1400-construct-k-palindrome-strings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1400-construct-k-palindrome-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
