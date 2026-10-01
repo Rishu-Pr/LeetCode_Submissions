@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-find-mirror-score-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3731-find-missing-elements](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2939-maximum-xor-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2939-maximum-xor-product) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3282-reach-end-of-array-with-max-score) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2463-minimum-total-distance-traveled) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3731-find-missing-elements) |
@@ -935,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
 | [1405-longest-happy-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1405-longest-happy-string) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Prefix Sum
 |  |
