@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0946-validate-stack-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0946-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0640-solve-the-equation) |
+| [0946-validate-stack-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
+| [0946-validate-stack-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0946-validate-stack-sequences) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
