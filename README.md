@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2284-sender-with-largest-word-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2284-sender-with-largest-word-count) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2126-destroying-asteroids) |
@@ -1080,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1726-tuple-with-same-product) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
