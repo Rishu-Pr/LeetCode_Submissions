@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0639-decode-ways-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0639-decode-ways-ii) |
 | [0640-solve-the-equation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0640-solve-the-equation) |
+| [0678-valid-parenthesis-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0692-top-k-frequent-words) |
 | [0745-prefix-and-suffix-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0745-prefix-and-suffix-search) |
 | [0767-reorganize-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0767-reorganize-string) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0738-monotone-increasing-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0738-monotone-increasing-digits) |
 | [0767-reorganize-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0767-reorganize-string) |
 | [0910-smallest-range-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0910-smallest-range-ii) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0553-optimal-division) |
 | [0639-decode-ways-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0788-rotated-digits) |
@@ -886,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0946-validate-stack-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0946-validate-stack-sequences) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1220,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
