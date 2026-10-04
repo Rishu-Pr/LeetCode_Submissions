@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-find-mirror-score-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3527-find-the-most-common-response](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3527-find-the-most-common-response) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3731-find-missing-elements](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3320-count-the-number-of-winning-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3320-count-the-number-of-winning-sequences) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3498-reverse-degree-of-a-string) |
+| [3527-find-the-most-common-response](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3527-find-the-most-common-response) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3527-find-the-most-common-response](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3527-find-the-most-common-response) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1093,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2284-sender-with-largest-word-count) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
+| [3527-find-the-most-common-response](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3527-find-the-most-common-response) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Rolling Hash
 |  |
