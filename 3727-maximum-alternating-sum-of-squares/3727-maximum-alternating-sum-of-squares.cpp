@@ -2,7 +2,7 @@ class Solution {
 public:
     long long maxAlternatingSum(vector<int>& nums) {
         for(int i = 0; i < nums.size(); i++){
-            nums[i] = abs(nums[i]);
+            nums[i] = nums[i] * nums[i];
         }
         sort(nums.begin(), nums.end());
 
@@ -10,13 +10,11 @@ public:
         int s = 0;
         int e = nums.size() - 1;
 
-        while( s <= e){
-            val += nums[e] * nums[e];
-            e--;
-            if(s <= e){
-                val -= nums[s] * nums[s];
-                s++;
-            }
+        for(int i = 0; i < nums.size() / 2; i++){
+            val -= nums[i];
+        }
+        for(int i = nums.size() / 2; i < nums.size(); i++){
+            val += nums[i];
         }
 
         return val;
