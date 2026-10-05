@@ -611,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3412-find-mirror-score-of-a-string) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
