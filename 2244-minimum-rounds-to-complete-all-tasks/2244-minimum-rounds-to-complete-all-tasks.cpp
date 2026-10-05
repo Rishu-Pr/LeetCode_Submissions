@@ -7,7 +7,7 @@ public:
         }
 
         vector<pair<int, int>> Vec(map.begin(), map.end());
-        sort(Vec.begin(), Vec.end());
+        // sort(Vec.begin(), Vec.end());
         int cnt = 0;
 
         for(int i = 0; i < Vec.size(); i++){
