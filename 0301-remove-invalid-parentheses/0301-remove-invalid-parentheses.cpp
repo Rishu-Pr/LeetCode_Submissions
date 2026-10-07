@@ -45,20 +45,25 @@ public:
         //         need.push_back(ans[i]);
         //     }
         // }
-        sort(ans.begin(), ans.end(), [](const string& a, const string& b) {
-            return a.size() > b.size();
-        });
+        // sort(ans.begin(), ans.end(), [](const string& a, const string& b) {
+        //     return a.size() > b.size();
+        // });
 
         int size = ans.front().size();
+        for(int i = 1; i < ans.size(); i++){
+            if(ans[i].size() > size){
+                size = ans[i].size();
+            }
+        }
         vector<string> need;
 
         for(int i = 0; i < ans.size(); i++){
             if(ans[i].size() == size){
                 need.push_back(ans[i]);
             }
-            else{
-                break;
-            }
+            // else{
+            //     break;
+            // }
         }
         
         sort(need.begin(), need.end());
