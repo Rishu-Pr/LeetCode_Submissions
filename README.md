@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2284-sender-with-largest-word-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2284-sender-with-largest-word-count) |
 | [2365-task-scheduler-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2365-task-scheduler-ii) |
+| [2384-largest-palindromic-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2384-largest-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2284-sender-with-largest-word-count) |
 | [2288-apply-discount-to-prices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2288-apply-discount-to-prices) |
 | [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
+| [2384-largest-palindromic-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2384-largest-palindromic-number) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2384-largest-palindromic-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2384-largest-palindromic-number) |
 | [2429-minimize-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2429-minimize-xor) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2939-maximum-xor-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2939-maximum-xor-product) |
@@ -1138,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2284-sender-with-largest-word-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2284-sender-with-largest-word-count) |
+| [2384-largest-palindromic-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2384-largest-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
