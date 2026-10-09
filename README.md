@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1726-tuple-with-same-product) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1622-fancy-sequence) |
 | [1690-stone-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1690-stone-game-vii) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1927-sum-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1824-minimum-sideway-jumps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1824-minimum-sideway-jumps) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1861-rotating-the-box](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1861-rotating-the-box) |
@@ -1132,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1726-tuple-with-same-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1726-tuple-with-same-product) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
