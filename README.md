@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0523-continuous-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0692-top-k-frequent-words) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0633-sum-of-square-numbers) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0400-nth-digit) |
 | [0450-delete-node-in-a-bst](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0528-random-pick-with-weight](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0528-random-pick-with-weight) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0669-trim-a-binary-search-tree) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0528-random-pick-with-weight) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0553-optimal-division) |
@@ -851,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0646-maximum-length-of-pair-chain) |
