@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0224-basic-calculator) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -1082,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0089-gray-code) |
+| [0131-palindrome-partitioning](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0357-count-numbers-with-unique-digits) |
