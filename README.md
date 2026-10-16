@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1745-palindrome-partitioning-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1745-palindrome-partitioning-iv) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1690-stone-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1690-stone-game-vii) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1745-palindrome-partitioning-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1745-palindrome-partitioning-iv) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
