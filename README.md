@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
 | [2384-largest-palindromic-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2384-largest-palindromic-number) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2396-strictly-palindromic-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2384-largest-palindromic-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2384-largest-palindromic-number) |
 | [2429-minimize-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2429-minimize-xor) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2939-maximum-xor-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2939-maximum-xor-product) |
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2321-maximum-score-of-spliced-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2321-maximum-score-of-spliced-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2585-number-of-ways-to-earn-points) |
 | [2742-painting-the-walls](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2742-painting-the-walls) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3259-maximum-energy-boost-from-two-drinks) |
