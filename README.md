@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0224-basic-calculator) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
