@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3320-count-the-number-of-winning-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3320-count-the-number-of-winning-sequences) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3498-reverse-degree-of-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3527-find-the-most-common-response) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3838-weighted-word-mapping) |
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1316,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Knapsack Problem
 |  |
 | ------- |
