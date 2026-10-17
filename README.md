@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2126-destroying-asteroids) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2126-destroying-asteroids) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -1183,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2029-stone-game-ix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2029-stone-game-ix) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
