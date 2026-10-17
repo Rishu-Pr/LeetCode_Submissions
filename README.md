@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1278-palindrome-partitioning-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1278-palindrome-partitioning-iii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1400-construct-k-palindrome-strings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1400-construct-k-palindrome-strings) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1220-count-vowels-permutation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1220-count-vowels-permutation) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
+| [1278-palindrome-partitioning-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1278-palindrome-partitioning-iii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1340-jump-game-v](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1340-jump-game-v) |
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
