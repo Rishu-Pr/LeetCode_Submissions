@@ -1,18 +1,18 @@
 class Solution {
-    int isPalid(string s){
-        int i = 0; 
-        int j = s.size() - 1;
-        int cnt = 0;
-        while(i < j){
-            if(s[i] != s[j]){
-                cnt++;
-            }
-            i++;
-            j--;
-        }
+    // int isPalid(string s){
+    //     int i = 0; 
+    //     int j = s.size() - 1;
+    //     int cnt = 0;
+    //     while(i < j){
+    //         if(s[i] != s[j]){
+    //             cnt++;
+    //         }
+    //         i++;
+    //         j--;
+    //     }
 
-        return cnt;
-    }
+    //     return cnt;
+    // }
 
     int solve(string& s, int k, vector<vector<int>>& V, int idx, vector<vector<int>>& dp){
         if(k < 0){
@@ -40,10 +40,25 @@ public:
     int palindromePartition(string s, int k) {
         int n = s.size();
         vector<vector<int>> V(n, vector<int>(n, 0));
-        for(int i = 0; i < n; i++){
+        for(int i = n - 1; i >= 0; i--){
             for(int j = i; j < n; j++){
-                string temp = s.substr(i, j - i + 1);
-                V[i][j] = isPalid(temp);
+                if(j == i){
+                    V[i][j] = 0;
+                }
+                else if(j - i == 1){
+                    if(s[i] != s[j]){
+                        V[i][j] = 1;
+                    }
+                    else{
+                        V[i][j] = 0;
+                    }
+                }
+                else{
+                    V[i][j] = V[i + 1][j - 1];
+                    if(s[i] != s[j]){
+                        V[i][j] += 1;
+                    }
+                }
             }
         }
 
