@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0811-subdomain-visit-count) |
 | [0856-score-of-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0906-super-palindromes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0906-super-palindromes) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1021-remove-outermost-parentheses) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0836-rectangle-overlap) |
 | [0869-reordered-power-of-2](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
+| [0906-super-palindromes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0906-super-palindromes) |
 | [0910-smallest-range-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0910-smallest-range-ii) |
 | [0970-powerful-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0970-powerful-integers) |
 | [1017-convert-to-base-2](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1017-convert-to-base-2) |
@@ -1134,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0829-consecutive-numbers-sum) |
 | [0869-reordered-power-of-2](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0869-reordered-power-of-2) |
+| [0906-super-palindromes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0906-super-palindromes) |
 | [0970-powerful-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0970-powerful-integers) |
 | [1291-sequential-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1291-sequential-digits) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1638-count-substrings-that-differ-by-one-character) |
