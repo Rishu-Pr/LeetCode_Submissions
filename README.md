@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3745-maximize-expression-of-three-elements) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3838-weighted-word-mapping](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1052,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2939-maximum-xor-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2939-maximum-xor-product) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
