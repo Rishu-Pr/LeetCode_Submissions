@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2939-maximum-xor-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2939-maximum-xor-product) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -956,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
 | [2365-task-scheduler-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2365-task-scheduler-ii) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -1282,10 +1285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1390-four-divisors) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Sieve Theory
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1390-four-divisors) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Database
 |  |
 | ------- |
@@ -1407,4 +1412,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Primality Test
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
