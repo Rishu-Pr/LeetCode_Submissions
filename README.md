@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-task-scheduler-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2365-task-scheduler-ii) |
 | [2384-largest-palindromic-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2384-largest-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2939-maximum-xor-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2939-maximum-xor-product) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2463-minimum-total-distance-traveled) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -960,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -1289,11 +1293,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1492-the-kth-factor-of-n) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1390-four-divisors) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Database
 |  |
 | ------- |
@@ -1386,10 +1392,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0592-fraction-addition-and-subtraction) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0592-fraction-addition-and-subtraction) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Linear Algebra
 |  |
 | ------- |
@@ -1419,8 +1427,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
