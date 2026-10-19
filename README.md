@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1400-construct-k-palindrome-strings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1400-construct-k-palindrome-strings) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1402-reducing-dishes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1472-design-browser-history](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1472-design-browser-history) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -1045,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0810-chalkboard-xor-game) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1386-cinema-seat-allocation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
@@ -1081,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0528-random-pick-with-weight) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1871-jump-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
