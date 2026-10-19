@@ -1,5 +1,5 @@
 class Solution {
-    int solve(int n, int curV, int curC, vector<vector<int>>& dp){
+    int solve(int& n, int curV, int curC, vector<vector<int>>& dp){
         if(curV == n){
             return 0;
         }
