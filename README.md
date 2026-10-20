@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1362-closest-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1362-closest-divisors) |
 | [1390-four-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -1290,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prime Factorization
 |  |
 | ------- |
+| [1362-closest-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1362-closest-divisors) |
 | [1390-four-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1492-the-kth-factor-of-n) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
