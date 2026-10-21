@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0692-top-k-frequent-words) |
 | [0745-prefix-and-suffix-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0745-prefix-and-suffix-search) |
+| [0763-partition-labels](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0811-subdomain-visit-count) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0692-top-k-frequent-words) |
 | [0745-prefix-and-suffix-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0745-prefix-and-suffix-search) |
+| [0763-partition-labels](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0796-rotate-string) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0633-sum-of-square-numbers) |
+| [0763-partition-labels](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0763-partition-labels) |
 | [1537-get-the-maximum-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1537-get-the-maximum-score) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0738-monotone-increasing-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0738-monotone-increasing-digits) |
+| [0763-partition-labels](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0767-reorganize-string) |
 | [0910-smallest-range-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
