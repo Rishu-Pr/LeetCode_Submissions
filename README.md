@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [1267-count-servers-that-communicate](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0365-water-and-jug-problem) |
 | [0617-merge-two-binary-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
+| [0797-all-paths-from-source-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [1267-count-servers-that-communicate](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
@@ -1147,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0494-target-sum) |
+| [0797-all-paths-from-source-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [1079-letter-tile-possibilities](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1079-letter-tile-possibilities) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
@@ -1260,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0797-all-paths-from-source-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0797-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1449,4 +1453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0583-delete-operation-for-two-strings) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
