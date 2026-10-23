@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0841-keys-and-rooms) |
 | [1267-count-servers-that-communicate](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0365-water-and-jug-problem) |
 | [0617-merge-two-binary-trees](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0841-keys-and-rooms) |
 | [1267-count-servers-that-communicate](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
@@ -1264,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
 |  |
 | ------- |
