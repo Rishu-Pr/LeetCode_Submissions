@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1575-count-all-possible-routes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1575-count-all-possible-routes) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1626-best-team-with-no-conflicts](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1626-best-team-with-no-conflicts) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -1267,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0841-keys-and-rooms) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1426,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [1267-count-servers-that-communicate](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1267-count-servers-that-communicate) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -1460,4 +1463,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0797-all-paths-from-source-to-target) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
