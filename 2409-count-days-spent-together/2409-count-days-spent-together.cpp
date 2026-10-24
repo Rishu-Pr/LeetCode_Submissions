@@ -1,24 +1,24 @@
 class Solution {
+    int getDay(string s, vector<int>& days) {
+        int m = stoi(s.substr(0, 2));
+        int d = stoi(s.substr(3, 2));
+        
+        return days[m - 1] + d;
+    }
+
 public:
-    int countDaysTogether(string arriveAlice, string leaveAlice,
-                          string arriveBob, string leaveBob) {
-        vector<int> days = {31, 28, 31, 30, 31, 30,
-                            31, 31, 30, 31, 30, 31};
-
-        vector<int> prefix(13, 0);
-        for (int i = 0; i < 12; i++) {
-            prefix[i + 1] = prefix[i] + days[i];
-        }
-
-        auto dayOfYear = [&](const string& date) {
-            int month = stoi(date.substr(0, 2));
-            int day = stoi(date.substr(3, 2));
-            return prefix[month - 1] + day;
-        };
-
-        int start = max(dayOfYear(arriveAlice),dayOfYear(arriveBob));
-        int end = min(dayOfYear(leaveAlice),dayOfYear(leaveBob));
-
-        return max(0, end - start + 1);
+    int countDaysTogether(string arriveAlice, string leaveAlice, string arriveBob, string leaveBob) {
+        vector<int> days = {0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334, 365};
+        int startA = getDay(arriveAlice, days);
+        int endA = getDay(leaveAlice, days);
+        int startB = getDay(arriveBob, days);
+        int endB = getDay(leaveBob, days);
+        
+        int start = max(startA, startB);
+        int end = min(endA, endB);
+        
+        if (start > end) return 0;
+        
+        return end - start + 1;
     }
 };
