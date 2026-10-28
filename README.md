@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0264-ugly-number-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0301-remove-invalid-parentheses) |
@@ -1049,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0384-shuffle-an-array) |
@@ -1165,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0692-top-k-frequent-words) |
 | [0745-prefix-and-suffix-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0745-prefix-and-suffix-search) |
