@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0301-remove-invalid-parentheses) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0409-longest-palindrome) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0313-super-ugly-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1078,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0187-repeated-dna-sequences) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0397-integer-replacement) |
 | [0477-total-hamming-distance](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0477-total-hamming-distance) |
