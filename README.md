@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3290-maximum-multiplication-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3290-maximum-multiplication-score) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3665-twisted-mirror-path-count) |
 ## String Matching
 |  |
