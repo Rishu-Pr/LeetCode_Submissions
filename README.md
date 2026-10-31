@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3665-twisted-mirror-path-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3665-twisted-mirror-path-count) |
 ## String Matching
 |  |
 | ------- |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3290-maximum-multiplication-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3290-maximum-multiplication-score) |
 | [3320-count-the-number-of-winning-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3320-count-the-number-of-winning-sequences) |
+| [3665-twisted-mirror-path-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
 |  |
