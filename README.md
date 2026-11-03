@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2939-maximum-xor-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2939-maximum-xor-product) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3282-reach-end-of-array-with-max-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3290-maximum-multiplication-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3290-maximum-multiplication-score) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3527-find-the-most-common-response](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3527-find-the-most-common-response) |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -1523,4 +1526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1584-min-cost-to-connect-all-points) |
+## Least Common Multiple
+|  |
+| ------- |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3334-find-the-maximum-factor-score-of-array) |
 <!---LeetCode Topics End-->
