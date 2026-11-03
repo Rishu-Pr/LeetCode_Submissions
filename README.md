@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3870-count-commas-in-range) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
