@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2384-largest-palindromic-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2384-largest-palindromic-number) |
 | [2429-minimize-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2429-minimize-xor) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2939-maximum-xor-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2939-maximum-xor-product) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2742-painting-the-walls](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2742-painting-the-walls) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2585-number-of-ways-to-earn-points) |
 | [2742-painting-the-walls](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2742-painting-the-walls) |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3290-maximum-multiplication-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3290-maximum-multiplication-score) |
 | [3320-count-the-number-of-winning-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3320-count-the-number-of-winning-sequences) |
