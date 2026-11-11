@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0791-custom-sort-string) |
+| [0805-split-array-with-same-average](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0805-split-array-with-same-average) |
 | [0811-subdomain-visit-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0811-subdomain-visit-count) |
 | [0869-reordered-power-of-2](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0869-reordered-power-of-2) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0738-monotone-increasing-digits) |
 | [0788-rotated-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0788-rotated-digits) |
+| [0805-split-array-with-same-average](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0810-chalkboard-xor-game) |
 | [0829-consecutive-numbers-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0836-rectangle-overlap) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0805-split-array-with-same-average](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0810-chalkboard-xor-game) |
 | [0811-subdomain-visit-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0811-subdomain-visit-count) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0849-maximize-distance-to-closest-person) |
@@ -906,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0788-rotated-digits) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0805-split-array-with-same-average](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0805-split-array-with-same-average) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0940-distinct-subsequences-ii) |
@@ -1137,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0397-integer-replacement) |
 | [0477-total-hamming-distance](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0491-non-decreasing-subsequences) |
+| [0805-split-array-with-same-average](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0810-chalkboard-xor-game) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1386-cinema-seat-allocation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
@@ -1264,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0805-split-array-with-same-average](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0805-split-array-with-same-average) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1799-maximize-score-after-n-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1799-maximize-score-after-n-operations) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
@@ -1557,4 +1563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3334-find-the-maximum-factor-score-of-array) |
+## Meet in the Middle
+|  |
+| ------- |
+| [0805-split-array-with-same-average](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0805-split-array-with-same-average) |
 <!---LeetCode Topics End-->
