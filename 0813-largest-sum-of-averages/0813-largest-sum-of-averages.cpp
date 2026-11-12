@@ -1,39 +1,31 @@
 class Solution {
-    double solve(vector<int>& nums, int k, vector<double>& Karr, int idx, int kdx, vector<int>& count, vector<vector<vector<double>>>& dp) {
-        if (idx == nums.size()) {
-            double sum = 0.0;
-            if (count[kdx]) {
-                sum += Karr[kdx] / count[kdx];
-            }
-            return sum;
+    double solve(vector<int>& nums, int i, int k, vector<vector<double>>& dp) {
+        if(k < 0 || i == nums.size()){
+            return 0;
+        }
+        if(k == 0){
+            return -1e5;
+        }
+        if(dp[i][k] != -1){
+            return dp[i][k];
         }
 
-        int c = count[kdx];
-        if (dp[idx][kdx][c] != -1.0) {
-            return dp[idx][kdx][c];
+        double sum = 0;
+        double ans = 0;
+
+        for(int x = i; x < nums.size(); x++){
+            sum += nums[x];
+            ans = max(ans, (sum / (x - i + 1) )+ solve(nums, x + 1, k - 1, dp));
         }
 
-        Karr[kdx] += nums[idx];
-        count[kdx]++;
-        double ans = solve(nums, k, Karr, idx + 1, kdx, count, dp);
-        Karr[kdx] -= nums[idx];
-        count[kdx]--;
-
-        if (kdx < k - 1 && count[kdx] > 0) {
-            double cAvg = Karr[kdx] / count[kdx];
-            ans = max(ans, cAvg + solve(nums, k, Karr, idx, kdx + 1, count, dp));
-        }
-
-        return dp[idx][kdx][c] = ans;
+        return dp[i][k] = ans;
     }
 
 public:
     double largestSumOfAverages(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<double> Karr(k, 0);
-        vector<int> count(k, 0);
 
-        vector<vector<vector<double>>> dp(n, vector<vector<double>>(k, vector<double>(n + 1, -1.0)));
-        return solve(nums, k, Karr, 0, 0, count, dp);
+        vector<vector<double>> dp(n, vector<double>(k + 2, -1.0));
+        return solve(nums, 0, k, dp);
     }
 };
