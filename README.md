@@ -673,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0810-chalkboard-xor-game) |
 | [0811-subdomain-visit-count](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0811-subdomain-visit-count) |
+| [0813-largest-sum-of-averages](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0813-largest-sum-of-averages) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0788-rotated-digits) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0805-split-array-with-same-average) |
+| [0813-largest-sum-of-averages](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0813-largest-sum-of-averages) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0940-distinct-subsequences-ii) |
@@ -1185,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0528-random-pick-with-weight) |
+| [0813-largest-sum-of-averages](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0813-largest-sum-of-averages) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
