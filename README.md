@@ -747,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2256-minimum-average-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2256-minimum-average-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1193,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1871-jump-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2256-minimum-average-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2256-minimum-average-difference) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2574-left-and-right-sum-differences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
