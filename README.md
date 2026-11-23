@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2939-maximum-xor-product](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2939-maximum-xor-product) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3290-maximum-multiplication-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3290-maximum-multiplication-score) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
