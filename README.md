@@ -682,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0849-maximize-distance-to-closest-person](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0910-smallest-range-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0946-validate-stack-sequences) |
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0813-largest-sum-of-averages) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0877-stone-game) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0940-distinct-subsequences-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1137-n-th-tribonacci-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1137-n-th-tribonacci-number) |
@@ -1160,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0491-non-decreasing-subsequences) |
 | [0805-split-array-with-same-average](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0810-chalkboard-xor-game) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1386-cinema-seat-allocation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
