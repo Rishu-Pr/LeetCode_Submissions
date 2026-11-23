@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1362-closest-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1362-closest-divisors) |
 | [1390-four-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1267-count-servers-that-communicate) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1340-jump-game-v](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1340-jump-game-v) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1388-pizza-with-3n-slices](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1388-pizza-with-3n-slices) |
 | [1390-four-divisors](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1390-four-divisors) |
@@ -1127,12 +1129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0384-shuffle-an-array) |
 | [0729-my-calendar-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0729-my-calendar-i) |
 | [0745-prefix-and-suffix-search](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0745-prefix-and-suffix-search) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1472-design-browser-history) |
 | [1622-fancy-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1622-fancy-sequence) |
 | [2296-design-a-text-editor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2296-design-a-text-editor) |
 ## Data Stream
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
@@ -1196,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0528-random-pick-with-weight) |
 | [0813-largest-sum-of-averages](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0813-largest-sum-of-averages) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1871-jump-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1871-jump-game-vii) |
