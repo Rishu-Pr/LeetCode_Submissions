@@ -1,14 +1,12 @@
 class ProductOfNumbers {
 public:
-    vector<int> nums;
+    vector<int> nums = {1};
     ProductOfNumbers() {
-        nums.push_back(1);
     }
     
     void add(int num) {
         if(num == 0){
-            nums.clear();
-            nums.push_back(1);
+            nums.resize(1);
         }
         else{
             nums.push_back(num * nums.back());
