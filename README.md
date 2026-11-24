@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1871-jump-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2401-longest-nice-subarray](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2401-longest-nice-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2365-task-scheduler-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2365-task-scheduler-ii) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2401-longest-nice-subarray](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2401-longest-nice-subarray) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1177,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2172-maximum-and-sum-of-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2172-maximum-and-sum-of-array) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2317-maximum-xor-after-operations](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2317-maximum-xor-after-operations) |
+| [2401-longest-nice-subarray](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2401-longest-nice-subarray) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2429-minimize-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2429-minimize-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
