@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1622-fancy-sequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1622-fancy-sequence) |
 | [1690-stone-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1690-stone-game-vii) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1537-get-the-maximum-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1537-get-the-maximum-score) |
 | [1539-kth-missing-positive-number](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1537-get-the-maximum-score](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1575-count-all-possible-routes](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1575-count-all-possible-routes) |
@@ -1218,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1871-jump-game-vii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2256-minimum-average-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/2256-minimum-average-difference) |
