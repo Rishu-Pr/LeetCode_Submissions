@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0970-powerful-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0970-powerful-integers) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1079-letter-tile-possibilities](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1079-letter-tile-possibilities) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0946-validate-stack-sequences) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -1220,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0813-largest-sum-of-averages](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0813-largest-sum-of-averages) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
