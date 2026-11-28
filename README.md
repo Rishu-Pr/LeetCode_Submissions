@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0561-array-partition](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0670-maximum-swap) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0648-replace-words) |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0658-find-k-closest-elements) |
@@ -1499,6 +1502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Knapsack Problem
