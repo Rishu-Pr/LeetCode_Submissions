@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0648-replace-words) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0648-replace-words) |
@@ -1216,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0528-random-pick-with-weight) |
+| [0560-subarray-sum-equals-k](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0813-largest-sum-of-averages](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/0813-largest-sum-of-averages) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Rishu-Pr/LeetCode_Submissions/tree/master/1352-product-of-the-last-k-numbers) |
